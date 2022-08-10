@@ -11,29 +11,29 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Python
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Advance python knowledge  upto OOP. Suffient expertise in panda and numpy, learning matplotlib and keras."
+  #url: "https://kubernetes.io/"
 
-- name: Go Development
+- name: TensorFlow
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "Have deployed TFOD models in tensorflow whereas focusing on training and interface of deep neural networks."
+  #url: "https://golang.org/"
 
-- name: Cloud Computing
+- name: Object Detection 
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Have trained a model to detect me and sign language signs. Currently working on a model to detect cracks and wear of commercial tires."
 
-- name: Docker
+- name: Qt
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  summary: "C++ software development, QT Firebase integration and deployment of a full software."
+  #url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: Flutter / Firebase
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  summary: "Beginner level skills in flutter, capable of implementing basic firebase integration, authentications and creating beautiful User Interfaces."
+  #url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -42,8 +42,13 @@ skills:
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+ # url: "https://git-scm.com/"
+  
+- name: JupyterNotebook
+  logo: /images/sections/skills/jupyterNotebook.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  #url: "https://git-scm.com/"
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know Advance C++ programming. Used for contest programming and problem solving."

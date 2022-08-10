@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://OmerJauhar.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Ojcodes"
 theme: "toha"
 
 # Manage languages
@@ -13,6 +13,7 @@ languages:
   bn:
     languageName: বাংলা
     weight: 3
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -51,7 +52,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/OmerJauhar/OmerJauhar.github.io.git
   # Default branch of your Git repo
   gitBranch: main
 
@@ -175,15 +176,15 @@ params:
       enable: true
     # Show/hide credentials section in the footer. Default is "true".
     credentials:
-      enable: true
+      enable: false
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
