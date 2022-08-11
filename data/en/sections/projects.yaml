@@ -21,44 +21,71 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: Hospital Management System C++
+  logo: /images/sections/skills/docker.svg
+  role: Development 
+  timeline: "June 2022"
+  repo: https://github.com/OmerJauhar/Hospital-Management-System-HMS-QT-Software-OOP-C- # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
+  summary: Complete Hospital Management System Software with firebase integration and an app for patients.
+  tags: ["professional", "Qt", "Firebase"]
+  
+- name: TFOD Sign Language 
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
+  role: 
+  timeline: "Aug 2022"
+  repo: https://github.com/OmerJauhar/Sign-Language-Detection-Using-TFOD-
+  #url: "https://github.com/OmerJauhar/Sign-Language-Detection-Using-TFOD-"
+  summary: First time used Tensor flow obejct detection. Trained a simple model to detect thumbs up, thumbs down, thank You etc...
   tags: ["professional", "machine-learning"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
-
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
+- name: HMS Flutter App 
+  logo: /images/sections/skills/prometheus.png
+  role: 
+  timeline: "June 2022"
+  repo: https://github.com/OmerJauhar/HMS-APP-Flutter-Dart-Firebase
+  #url: "https://github.com/OmerJauhar/HMS-APP-Flutter-Dart-Firebase"
+  summary: Flutter app for the hms qt software in which patients can book appointments and check their bill.
+  tags: ["professional", "Flutter", "Firebase"]
+  
+- name: Student Management System Python
+  logo: /images/sections/skills/kubernetes.png
+  role: Development
+  timeline: "Dec 2021	"
+  repo: https://github.com/OmerJauhar/Student-Management-System-Python
+  #url: "https://github.com/OmerJauhar/Student-Management-System-Python"
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  tags: ["Professional"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: TFOD Self Detection
+  logo: /images/sections/projects/tensorflow.png
+  role: Development
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/OmerJauhar/TFOD-SELF-DETECTION-MODEL
+  #url: "https://github.com/OmerJauhar/TFOD-SELF-DETECTION-MODEL"
+  summary: Trained a model to detect me.
+  tags: ["fun", "machine-learning"]
+
+#- name: A sample academic paper
+#  role: Team Lead
+#  timeline: "Jan 2017 - Nov 2017"
+#  url: "https://www.example.com"
+#  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#  tags: ["academic","iot"]
+
+#- name: Nocode
+#  logo: /images/sections/projects/no-code.png
+#  role: Nothing
+#  timeline: "Oct 2019 - Dec 2019"
+#  repo: https://github.com/kelseyhightower/nocode
+#  #url: ""
+#  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#  tags: ["hobby", "fun"]
+
+#- name: Toha
+#  logo: /images/sections/projects/toha.png
+#  role: Owner
+#  timeline: "Jun 2019 - Present"
+#  repo: https://github.com/hossainemruz/toha
+#  summary: A Hugo theme for personal portfolio.
+#  tags: ["hobby","hugo","theme","professional"]
