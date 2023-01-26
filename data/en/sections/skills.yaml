@@ -16,10 +16,10 @@ skills:
   summary: "Advance python knowledge  upto OOP. Suffient expertise in panda and numpy, learning matplotlib and keras."
   #url: "https://kubernetes.io/"
 
-- name: TensorFlow
-  logo: /images/sections/skills/go.png
-  summary: "Have deployed TFOD models in tensorflow whereas focusing on training and interface of deep neural networks."
-  #url: "https://golang.org/"
+#- name: TensorFlow
+#  logo: /images/sections/skills/go.png
+#  summary: "Have deployed TFOD models in tensorflow whereas focusing on training and interface of deep neural networks."
+#  #url: "https://golang.org/"
 
 - name: Object Detection 
   logo: /images/sections/skills/cloud.png

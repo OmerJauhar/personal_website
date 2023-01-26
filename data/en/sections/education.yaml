@@ -42,24 +42,37 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Object Oriented Programming + LAB
+    - name: Data Structures
       achieved: 4 
       outOf: 4
-    - name: Programming Fundamentals
+    - name: OOP
       achieved: 4
       outOf: 4
-    - name: Digital Logic Design
+    - name: COAL
       achieved: 4
-      outOf: 4  
+      outOf: 4
+    - name:  Programming Fundamentals
+      achieved: 4 
+      outOf: 4
     - name: Differential Equations
       achieved: 4
-      outOf: 4   
-    - name: Applied Physics
+      outOf: 4
+    - name: Linear Algebra
       achieved: 4
       outOf: 4
     - name: Calculus
       achieved: 4
       outOf: 4
+    - name: Discrete Structures
+      achieved: 4
+      outOf: 4
+    - name: Digital Logic Design
+      achieved: 4
+      outOf: 4   
+    - name: Applied Physics
+      achieved: 4
+      outOf: 4
+
  # publications: #(optional)
  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  #   url: "#"
