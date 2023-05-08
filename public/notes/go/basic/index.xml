@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basics on Ojcodes</title>
+    <title>Basics on ojdev</title>
     <link>https://omerjauhar.github.io/notes/go/basic/</link>
-    <description>Recent content in Basics on Ojcodes</description>
+    <description>Recent content in Basics on ojdev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omerjauhar.github.io/notes/go/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+    <language>en-us</language><atom:link href="https://omerjauhar.github.io/notes/go/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
       <title>Introduction</title>
       <link>https://omerjauhar.github.io/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,7 +39,6 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays //
       <guid>https://omerjauhar.github.io/notes/go/basic/flow-control/</guid>
       <description>Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) Switch switch day { case &amp;#34;sunday&amp;#34;: // cases don&amp;#39;t &amp;#34;fall through&amp;#34; by default! fallthrough case &amp;#34;saturday&amp;#34;: rest() default: work() } Loop for count := 0; count &amp;lt;= 10; count++ { fmt.Println(&amp;#34;My counter is at&amp;#34;, count) } entry := []string{&amp;#34;Jack&amp;#34;,&amp;#34;John&amp;#34;,&amp;#34;Jones&amp;#34;} for i, val := range entry { fmt.</description>
     </item>
-    
     
   </channel>
 </rss>
