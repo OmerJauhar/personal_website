@@ -2,6 +2,7 @@
 title: "Crabdb: A brief overview"
 date: 2023-05-08T17:20:23+05:00
 draft: false
+hero: crabdb.jpg
 ---
 
 In this blog post, I will give a brief overview of one of my semester project "crabdb".It is a simple database written in rust in which i have tried to implement both sql and nosql features by introducing a "mode" option at startup.
