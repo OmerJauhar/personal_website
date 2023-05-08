@@ -76,8 +76,11 @@
                 href="https://omerjauhar.github.io/notes/bash/basic/"
                 />
   </url><url>
+    <loc>https://omerjauhar.github.io/posts/crabdb/</loc>
+    <lastmod>2023-05-08T17:20:23+05:00</lastmod>
+  </url><url>
     <loc>https://omerjauhar.github.io/</loc>
-    <lastmod>2022-08-11T20:52:21+05:00</lastmod>
+    <lastmod>2023-05-08T17:20:23+05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -89,11 +92,8 @@
                 href="https://omerjauhar.github.io/"
                 />
   </url><url>
-    <loc>https://omerjauhar.github.io/posts/post/</loc>
-    <lastmod>2022-08-11T20:52:21+05:00</lastmod>
-  </url><url>
     <loc>https://omerjauhar.github.io/posts/</loc>
-    <lastmod>2022-08-11T20:52:21+05:00</lastmod>
+    <lastmod>2023-05-08T17:20:23+05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -105,8 +105,8 @@
                 href="https://omerjauhar.github.io/posts/"
                 />
   </url><url>
-    <loc>https://omerjauhar.github.io/tags/basic/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <loc>https://omerjauhar.github.io/posts/post/</loc>
+    <lastmod>2022-08-11T20:52:21+05:00</lastmod>
   </url><url>
     <loc>https://omerjauhar.github.io/categories/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
@@ -127,34 +127,8 @@
     <loc>https://omerjauhar.github.io/tags/content-organization/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://omerjauhar.github.io/posts/introduction/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://omerjauhar.github.io/bn/posts/introduction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://omerjauhar.github.io/posts/introduction/"
-                />
-  </url><url>
     <loc>https://omerjauhar.github.io/tags/markdown/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>https://omerjauhar.github.io/posts/markdown-sample/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://omerjauhar.github.io/bn/posts/markdown-sample/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://omerjauhar.github.io/posts/markdown-sample/"
-                />
   </url><url>
     <loc>https://omerjauhar.github.io/tags/multi-lingual/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
@@ -170,19 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://omerjauhar.github.io/posts/category/sub-category/rich-content/"
-                />
-  </url><url>
-    <loc>https://omerjauhar.github.io/posts/shortcodes/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://omerjauhar.github.io/bn/posts/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://omerjauhar.github.io/posts/shortcodes/"
                 />
   </url><url>
     <loc>https://omerjauhar.github.io/posts/category/sub-category/</loc>

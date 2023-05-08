@@ -6,7 +6,7 @@
     <description>Recent content on ojdev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Aug 2022 20:52:21 +0500</lastBuildDate><atom:link href="https://omerjauhar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 17:20:23 +0500</lastBuildDate><atom:link href="https://omerjauhar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
       <link>https://omerjauhar.github.io/notes/go/basic/introduction/</link>
@@ -60,33 +60,21 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays //
     </item>
     
     <item>
+      <title>Crabdb: A brief overview</title>
+      <link>https://omerjauhar.github.io/posts/crabdb/</link>
+      <pubDate>Mon, 08 May 2023 17:20:23 +0500</pubDate>
+      
+      <guid>https://omerjauhar.github.io/posts/crabdb/</guid>
+      <description>In this blog post, I will give a brief overview of one of my semester project &amp;ldquo;crabdb&amp;rdquo;.It is a simple database written in rust in which i have tried to implement both sql and nosql features by introducing a &amp;ldquo;mode&amp;rdquo; option at startup. The main aim of this project for me is to get comfortable with rust and to know about the basic working of a database By the end of this post, we will try to have a basic working database.</description>
+    </item>
+    
+    <item>
       <title>Post</title>
       <link>https://omerjauhar.github.io/posts/post/</link>
       <pubDate>Thu, 11 Aug 2022 20:52:21 +0500</pubDate>
       
       <guid>https://omerjauhar.github.io/posts/post/</guid>
       <description>&amp;ldquo;Muhammad Omer Jauhar Ali Khan and &amp;quot;</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://omerjauhar.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://omerjauhar.github.io/posts/introduction/</guid>
-      <description>Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file. </description>
-    </item>
-    
-    <item>
-      <title>Markdown Samples</title>
-      <link>https://omerjauhar.github.io/posts/markdown-sample/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://omerjauhar.github.io/posts/markdown-sample/</guid>
-      <description>This is a sample post intended to test the followings:
-A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
@@ -98,17 +86,6 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aqu
       <description>This sample post tests the followings:
 Category, sub-category nesting in the sidebar. Hero image and other images are in images folder inside this post directory. Different media rendering like image, tweet, YouTube video, Vimeo video etc. Image Sample Tweet Sample Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
 &amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 YouTube Video Sample Vimeo Video Sample </description>
-    </item>
-    
-    <item>
-      <title>Shortcodes Samples</title>
-      <link>https://omerjauhar.github.io/posts/shortcodes/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://omerjauhar.github.io/posts/shortcodes/</guid>
-      <description>This is a sample post intended to test the followings:
-Default hero image. Different shortcodes. Alert The following alerts are available in this theme.
-This is sample alert with type=&amp;quot;success&amp;quot;. This is sample alert with type=&amp;quot;danger&amp;quot;. This is sample alert with type=&amp;quot;warning&amp;quot;. This is sample alert with type=&amp;quot;info&amp;quot;. This is sample alert with type=&amp;quot;dark&amp;quot;. This is sample alert with type=&amp;quot;primary&amp;quot;. This is sample alert with type=&amp;quot;secondary&amp;quot;. Image A sample image without any attribute.</description>
     </item>
     
   </channel>
