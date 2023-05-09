@@ -404,13 +404,13 @@ Repo : [https://github.com/OmerJauhar/Crabdb](https://github.com/OmerJauhar/Crab
 ####  *  Implement Delete and update queries 
 ####  *  Implement Disk Management for "sql mode"
 ####  *  Make the parser more flexible by accepting nosql/sql interchangeable terms
-####  *  Implement Primary and Foreign key concept.
 ```bash 
 Table <==> Collection
 Tuple/row <==> Document 
 Column <==> Field 
 
 ```
+####  *  Implement Primary and Foreign key concept.
 ####  *  Remove warning from current code 
 ####  *  Implement error handling with miette 
 
